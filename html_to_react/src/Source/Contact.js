@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Form from '../component/from/Form'
+import Form from '../component/form/Form'
 
 export default class Contact extends Component {
     render() {
